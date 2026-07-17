@@ -32,4 +32,19 @@ Bilgisayarınız açıldığında terminal otomatik olarak devam edecek ve varsa
 ```bash
 wsl --list --online
 
+ ```
+
 İstediğiniz dağıtımı kurmak için (Örn: Debian):
+
+```bash
+
+wsl --install -d Debian
+
+```
+🛠️ Kurulum Sonrası İlk Adımlar
+Linux ortamınızı başarıyla kurduktan sonra, paket listelerini ve mevcut programları güncellemek en iyi pratiktir. Terminali açın ve şu komutları çalıştırın:
+
+```bash
+sudo apt update && sudo apt upgrade -y
+
+
