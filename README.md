@@ -26,9 +26,6 @@ Kurulum işlemleri tamamlandığında bilgisayarınızı yeniden başlatın.
 Bilgisayarınız açıldığında terminal otomatik olarak devam edecek ve varsayılan dağıtım olan Ubuntu'yu kuracaktır. Sizden bir UNIX kullanıcı adı ve şifre belirlemeniz istenecektir. (Şifre yazarken ekranda karakterler görünmez, bu normaldir)
 
 
-Gemini ile sohbet
-https://github.com/UfukNode/WSL-Kurulum bunu kendi githubımda yayınlayacağım şekilde yeniden düzenle
-
 Mevcut internet bağlantısı kısıtlamaları nedeniyle doğrudan paylaştığınız GitHub linkindeki spesifik içeriği okuyamıyorum. Ancak kendi GitHub hesabınızda yayınlayabileceğiniz, hem görsel olarak daha düzenli hem de teknik olarak eksiksiz bir WSL (Windows Subsystem for Linux) Kurulum Rehberi (README.md) şablonunu sizin için hazırladım.
 
 Bu şablonu kopyalayıp deponuzdaki README.md dosyasının içine doğrudan yapıştırabilirsiniz.
