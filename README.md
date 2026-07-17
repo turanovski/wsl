@@ -19,3 +19,8 @@ Eğer Windows 10'un güncel bir sürümünü veya Windows 11 kullanıyorsanız, 
 
    ```bash
    wsl --install
+
+
+Kurulum işlemleri tamamlandığında bilgisayarınızı yeniden başlatın.
+
+Bilgisayarınız açıldığında terminal otomatik olarak devam edecek ve varsayılan dağıtım olan Ubuntu'yu kuracaktır. Sizden bir UNIX kullanıcı adı ve şifre belirlemeniz istenecektir. (Şifre yazarken ekranda karakterler görünmez, bu normaldir).
